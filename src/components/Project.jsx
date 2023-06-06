@@ -25,7 +25,7 @@ function Project() {
     }
     ,
     {
-      name: "login/registration",
+      name: "Login/registration(MERN stack)",
       image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685880166/Screen_Shot_2023-06-04_at_17.10.58_nkipno.png",
       gitlink:"https://github.com/sagar7170/fullstach_app",
       url:"https://6460bf2a0a414872ddb9afd3--creative-cendol-6273ef.netlify.app/",
@@ -46,7 +46,7 @@ function Project() {
 
   return (
     <div className='h-screen relative flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0 space-y-10 '>
-      <h1 className='uppercase absolute top-24  tracking-[20px] text-gray-500 text-2xl'>Project</h1>
+      <h1 className='uppercase absolute top-24  tracking-[20px] text-gray-500 text-2xl'>Projects</h1>
 
       <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 md:mt-28 '>
         {Projects.map((project) => (
