@@ -28,10 +28,9 @@ function Project() {
       image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685880166/Screen_Shot_2023-06-04_at_17.10.58_nkipno.png",
       gitlink:"https://github.com/sagar7170/fullstach_app",
       url:"https://6460bf2a0a414872ddb9afd3--creative-cendol-6273ef.netlify.app/",
-      about:"This project is fully responsive for mobile and desktop User can Login/Logout through JWT authentication andcan upload there profile picture if User do not have account User can Register , all the User Data stored on MongoDB database User data can pull out dynamically from the database"
+      about:"This project is fully responsive for mobile and desktop User can Login/Logout through JWT authentication and can upload their profile picture if User do not have account User can Register , all the User Data stored on MongoDB database User data can pull out dynamically from the database"
     }
     ,
-
     {
       name: "real-state",
       image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685880144/Screen_Shot_2023-06-04_at_17.20.31_yqi9no.png",
