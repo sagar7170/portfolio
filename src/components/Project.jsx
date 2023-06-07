@@ -6,7 +6,6 @@ function Project() {
  
   const Projects = [
 
-
     {
       name: "E-commerce Site",
       image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685880211/Screen_Shot_2023-06-04_at_16.59.13_pixphk.png",
@@ -43,7 +42,6 @@ function Project() {
 
   ]
 
-
   return (
     <div className='h-screen relative flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0 space-y-10 '>
       <h1 className='uppercase absolute top-24  tracking-[20px] text-gray-500 text-2xl'>Projects</h1>
@@ -71,10 +69,10 @@ function Project() {
                 <a href={project.url}><img className='w-8 h-8 mr-2 opacity-75 hover:scale-150 ' src="https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685947559/link_owvsrd.png" alt="" /></a>
   
               </div>
-              <h4 className='text-2xl font-semibold text-center'><span className='underline decoration-[#F7AB0A]/50'>{project.name}</span>
+              <h4 className='text-2xl font-semibold text-center'> <span className='underline decoration-[#F7AB0A]/50'>{project.name}</span>
                 </h4>
               <p className=' text-center  md:px-10 max-w-7xl'>{project.about}</p>
-            </div>
+            </div> 
           </div>
         ))}
       </div>

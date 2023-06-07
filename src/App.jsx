@@ -34,7 +34,7 @@ function App() {
       <Project/>
     </section>
 
-    <section id='mail' className='snap-start'>
+    <section className='snap-start'>
       <ContactMe />
     </section>
     </div>
