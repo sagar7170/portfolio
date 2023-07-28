@@ -32,11 +32,11 @@ function Project() {
     }
     ,
     {
-      name: "real-state",
+      name: "Real estate",
       image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685880144/Screen_Shot_2023-06-04_at_17.20.31_yqi9no.png",
       gitlink:"https://github.com/notnishant/realstate",
       url:"https://sagar7170.github.io/real_state/",
-      about:"It is a awesome responsive real estate website"
+      about:"It is a awesome responsive real estate static website"
     }
 
   ]
