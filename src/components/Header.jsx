@@ -1,7 +1,6 @@
 import React from 'react'
 import { SocialIcon } from 'react-social-icons'
 import { motion } from 'framer-motion'
-import {FcDownload} from 'react-icons/fc'
 function Header() {
   return (
     <header className='sticky top-0 flex items-start p-5 justify-between max-w-7xl mx-auto z-20 xl:items-center '>
