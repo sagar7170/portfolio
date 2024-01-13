@@ -55,8 +55,6 @@ function Header() {
     duration:1.5
   }}
     className='flex flex-row items-center space-x-2'>    
-      <a href="https://drive.google.com/file/d/1ZQxvrnWoW6-2ZgXev3VIZxb_6K5JXAN6/view?usp=sharing"> 
-      <FcDownload  className='rounded-md h-6 w-9 animate-bounce'/></a>
      <a href="mailto:sagarkarotia@gmail.com"> <SocialIcon 
       className='curser-pointer'
       network='email'

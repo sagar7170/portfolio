@@ -26,6 +26,7 @@ function About() {
         viewport={{
             once:true
         }}
+        
         className='-mb-20 mt-10 md:mb-0  flex shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[400px] xl:h-[500px] md:mt-44' src="https://res.cloudinary.com/dvcwh1gaq/image/upload/v1686045965/Picsart_23-06-06_15-34-05-310_sjvvfk.jpg" alt="" />
 
         <div className='space-y-10 px-0 md:px-10'>
@@ -33,7 +34,8 @@ function About() {
                 Here is a {" "}<span className='underline decoration-[#F7AB0A]'>little</span>{" "} Background
             </h4>
             <p className='text-sm'>
-             Hi, My name is Sagar , highly motivated and talented Web Developer with a good foundation in front-end and back-end web development. By experience i am fresher seeking an opportunity to contribute my skills and passion for web development to a dynamic and collaborative team. Skilled in designing, coding, and i have good problem solving skills and apart from this i have build some web projects which i have mentioned in my portfolio and resume
+            My name is Sagar, and I am a highly motivated and skilled professional with expertise in C++, Java,Ops,DSA, HTML5, CSS, JavaScript, and React.js. Despite being a fresher, I possess exceptional problem-solving skills and have successfully completed more than four projects utilizing the React.js framework.
+              Throughout my journey as a developer, I have gained extensive knowledge and hands-on experience in various programming languages and web technologies. I have utilized my expertise in React.js to create projects that exhibit a high level of professionalism and technical proficiency.
             </p>
         </div>
     </motion.div>

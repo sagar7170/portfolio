@@ -5,9 +5,23 @@ import { SocialIcon } from 'react-social-icons';
 function Project() {
  
   const Projects = [
-
     {
       name: "E-commerce Site",
+      image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1688546575/shopping_store_r44dme.png",
+      gitlink:"https://github.com/sagar7170/Shopping_store",
+      url:"https://shopping-store-five.vercel.app/",
+      about:"Developed a responsive E-Commerce website using Html,Tailwind CSS ,Next.js with essential features, including product listing, cart management , checkout. Allow the user to add/remove items from the cart Display real-time updates of the cart total and item count. Implemented filters to allow users to sort products by category"
+    },
+    {
+      name: "Blog Website",
+      image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1705164371/Screenshot_2024-01-13_221219_oyygiw.png",
+      gitlink:"https://github.com/sagar7170/blog-website",
+      url:"https://blog-website-ten-zeta.vercel.app/",
+      about:"eveloped a responsive Blog website using Html,Tailwind CSS ,ReactJs , User can write & search blogs, Allow user to Edit/Update & Delete pre-written blogs"
+    },
+
+    {
+      name: "Amazon Clone",
       image: "https://res.cloudinary.com/dvcwh1gaq/image/upload/v1685880211/Screen_Shot_2023-06-04_at_16.59.13_pixphk.png",
       gitlink:"https://github.com/sagar7170/clone-amazon",
       url:"https://647d90c965687c3ee86b27a2--merry-pika-5c91c5.netlify.app/",
